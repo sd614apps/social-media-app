@@ -1,4 +1,5 @@
 # Social Media App using MERN Stack
+https://github.com/ed-roh/mern-social-media
 
 ## initial installations
 - npm i -g nodemon
