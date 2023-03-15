@@ -31,5 +31,9 @@ mongodb.com
 - nodemon index.js
 
 
+## Execute client
+- npm run start
+
+
 ## Fonts
 fonts.google.com: rubik
